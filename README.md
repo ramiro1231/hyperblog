@@ -7,3 +7,4 @@ Un blog increible para el curso de platzi
 - Ahora me permite saber más
 - Creado por master team
 - Incluye ejempplos en windows, linux y Mac
+- Disponible para todas las edades
