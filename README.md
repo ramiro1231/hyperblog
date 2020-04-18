@@ -6,3 +6,4 @@ Un blog increible para el curso de platzi
 - Se aprendieron varias cosas interesantes que no sabia
 - Ahora me permite saber más
 - Creado por master team
+- Incluye ejempplos en windows, linux y Mac
